@@ -10,7 +10,7 @@ inst2;
 fc 2 {
 inst1;
 inst2;
-inst3;
+//inst3;aj release c4
 }
 fc 3 {
 inst1;

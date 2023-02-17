@@ -5,6 +5,7 @@ public class1(){}
 fc 1 {
 inst1;
 inst2;
+inst3;//aj realease c4
 }
 
 fc 1 {
@@ -18,6 +19,12 @@ inst2;
 inst3;
 }
 fc 4 {
+inst1;
+inst2;
+inst3;
+}
+//aj release c4
+fc 5 {
 inst1;
 inst2;
 inst3;

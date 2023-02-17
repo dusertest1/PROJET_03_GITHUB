@@ -6,4 +6,8 @@ fc 1 {
 inst1;
 inst2;
 }
+fc 2 {
+inst1;
+inst2;
+}
 }

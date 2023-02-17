@@ -1,13 +1,18 @@
-class class1{
+class class3{
 
-public class1(){}
+public class3(){}
 
 fc 1 {
 inst1;
 inst2;
 }
 
-fc 1 {
+fc 2 {
+inst1;
+inst2;
+inst3;
+}
+fc 3 {
 inst1;
 inst2;
 inst3;

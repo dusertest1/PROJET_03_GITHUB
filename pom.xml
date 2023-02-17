@@ -1,4 +1,4 @@
-build + test
+build + deploy
 <scope>test</scope>
 <plugin>...</plugin>
 <version>...</version>

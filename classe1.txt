@@ -13,7 +13,7 @@ inst1;
 fc 1 {
 inst1;
 inst2;
-//inst3; supp ins 
+//ist3; supp ins 
 inst4;//aj realease c5
 }
 fc 3 {

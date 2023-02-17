@@ -4,11 +4,11 @@ public class2(){}
 
 fc 1 {
 inst1;
-//inst2;aj release c4
+//inst2;aj release c4 // test c2
 }
 fc 2 {
-inst1;
-inst2;
+inst1...;//test v2
+inst2...;//test v2
 }
 fc 3 {
 inst1;

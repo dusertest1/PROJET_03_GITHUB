@@ -10,8 +10,7 @@ public class1(){}
 fc 1 {
 inst1;
 inst2;
-inst3;
-inst4;//aj realease c5
+//ins3; master
 }
 fc 3 {
 inst1;

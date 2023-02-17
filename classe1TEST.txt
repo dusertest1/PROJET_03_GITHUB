@@ -6,13 +6,12 @@ public class1(){}
 
 @AfterEach()
 
-fc 1TEST1 {
+// ajout de f11 C11 release 2
+fc 11 {
 inst1;
-inst2;
-inst3;//aj realease c4
-inst4;//aj realease c5
-
 }
+
+//supp de fTEST1 C11 release 2
 
 fc 1TEST1 {
 inst1;

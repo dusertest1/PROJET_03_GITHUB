@@ -6,12 +6,15 @@ fc 1 {
 inst1;
 inst2;
 inst3;//aj realease c4
+inst4;//aj realease c5
+
 }
 
 fc 1 {
 inst1;
 inst2;
 inst3;
+inst4;//aj realease c5
 }
 fc 3 {
 inst1;

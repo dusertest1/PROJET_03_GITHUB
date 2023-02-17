@@ -21,6 +21,7 @@ fc 4 {
 inst1;
 inst2;
 inst3;
+inst4;
 }
 //aj release c4
 //suppression de f5 release C8

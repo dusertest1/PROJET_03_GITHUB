@@ -1,0 +1,16 @@
+class class2{
+
+
+fc 1TEST1 {
+inst1;
+//inst2;aj release c4
+}
+fc 2TEST1 {
+inst1;
+inst2;
+}
+fc 3TEST1 {
+inst1;
+inst2;
+}
+}

@@ -1,0 +1,30 @@
+class class3{
+
+public class3(){}
+
+fc 1TEST {
+inst1;
+inst2;
+}
+
+fc 2TEST {
+inst1;
+inst2;
+//inst3;aj release c4
+}
+fc 3TEST {
+inst1;
+inst2;
+inst3;
+}
+fc 3TEST {
+inst1;
+inst2;
+inst3;
+}
+fc 4TEST {
+inst1;
+inst2;
+inst3;
+}
+}

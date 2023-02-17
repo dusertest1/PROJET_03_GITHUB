@@ -1,0 +1,39 @@
+class class1{
+
+public class1(){}
+
+@beforeEach()
+
+@AfterEach()
+
+fc 1TEST1 {
+inst1;
+inst2;
+inst3;//aj realease c4
+inst4;//aj realease c5
+
+}
+
+fc 1TEST1 {
+inst1;
+inst2;
+inst3;
+inst4;//aj realease c5
+}
+fc 3TEST1 {
+inst1;
+inst2;
+inst3;
+}
+fc 4TEST1 {
+inst1;
+inst2;
+inst3;
+}
+//aj release c4
+fc 5TEST1 {
+inst1;
+inst2;
+inst3;
+}
+}

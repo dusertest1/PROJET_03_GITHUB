@@ -5,12 +5,16 @@ class class1{
 public class1(){}
 
 //suppression de f1 release C8
-
+// ajout de f11 C10 release 2
+fc 11 {
+inst1;
+}
 
 fc 1 {
 inst1;
 inst2;
-//ins3; master
+//ist3;
+inst4;
 }
 fc 3 {
 inst1;

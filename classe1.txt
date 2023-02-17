@@ -1,14 +1,11 @@
 class class1{
-
+/**
+* comment
+/
 public class1(){}
 
-fc 1 {
-inst1...;//test v2
-inst2...;//test v2
-inst3;//aj realease c4
-inst4;//aj realease c5
+//suppression de f1 release C8
 
-}
 
 fc 1 {
 inst1;
@@ -27,9 +24,5 @@ inst2;
 inst3;
 }
 //aj release c4
-fc 5 {
-inst1;
-inst2;
-inst3;
-}
+//suppression de f5 release C8
 }
